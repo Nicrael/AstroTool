@@ -1,4 +1,4 @@
 {
-    "working_directory": "/home/andrea/workspace/GUITestDir2",
-    "xml_file": "/home/andrea/workspace/GUITestDir2/data.xml"
+    "data_dir": "/home/andrea/AstroData",
+    "xml_data": "/home/andrea/AstroData/astrodata.xml"
 }
