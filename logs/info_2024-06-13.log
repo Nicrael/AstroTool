@@ -55,3 +55,95 @@
 24-06-2024 18:54:30 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:30] "GET /get_settings HTTP/1.1" 200 -
 24-06-2024 18:54:30 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
 24-06-2024 18:54:30 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:30] "GET /get_targets HTTP/1.1" 200 -
+24-06-2024 20:16:54 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+24-06-2024 20:16:54 - INFO: [33mPress CTRL+C to quit[0m
+24-06-2024 20:16:54 - INFO:  * Restarting with stat
+24-06-2024 20:16:55 - WARNING:  * Debugger is active!
+24-06-2024 20:16:55 - INFO:  * Debugger PIN: 197-283-252
+24-06-2024 20:17:04 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:04] "GET / HTTP/1.1" 200 -
+24-06-2024 20:17:04 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:04] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+24-06-2024 20:17:04 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:04] "GET /static/js/jquery-3.7.1.min.js HTTP/1.1" 200 -
+24-06-2024 20:17:04 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:04] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+24-06-2024 20:17:04 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:04] "GET /static/css/custom.css HTTP/1.1" 200 -
+24-06-2024 20:17:04 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:04] "GET /static/js/scripts.js HTTP/1.1" 200 -
+24-06-2024 20:17:04 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:04] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 20:17:08 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:08] "GET /targets HTTP/1.1" 200 -
+24-06-2024 20:17:08 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:08] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+24-06-2024 20:17:08 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:08] "[36mGET /static/css/custom.css HTTP/1.1[0m" 304 -
+24-06-2024 20:17:08 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:08] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:17:08 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:08] "[36mGET /static/js/jquery-3.7.1.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:17:08 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:08] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 20:17:08 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:08] "GET /static/js/targets.js HTTP/1.1" 200 -
+24-06-2024 20:17:08 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:08] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 20:17:08 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-06-2024 20:17:08 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:08] "GET /get_targets HTTP/1.1" 200 -
+24-06-2024 20:17:19 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:19] "GET /observations HTTP/1.1" 200 -
+24-06-2024 20:17:19 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:19] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+24-06-2024 20:17:19 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:19] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:17:19 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:19] "[36mGET /static/js/jquery-3.7.1.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:17:19 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:19] "[36mGET /static/css/custom.css HTTP/1.1[0m" 304 -
+24-06-2024 20:17:19 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:19] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 20:17:19 - INFO: 127.0.0.1 - - [13/Jun/2024 20:17:19] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 20:18:46 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+24-06-2024 20:18:46 - INFO: [33mPress CTRL+C to quit[0m
+24-06-2024 20:18:46 - INFO:  * Restarting with stat
+24-06-2024 20:18:47 - WARNING:  * Debugger is active!
+24-06-2024 20:18:47 - INFO:  * Debugger PIN: 197-283-252
+24-06-2024 20:18:49 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:49] "GET / HTTP/1.1" 200 -
+24-06-2024 20:18:49 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:49] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:18:49 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:49] "[36mGET /static/js/jquery-3.7.1.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:18:49 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:49] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+24-06-2024 20:18:49 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:49] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 20:18:49 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:49] "[36mGET /static/css/custom.css HTTP/1.1[0m" 304 -
+24-06-2024 20:18:49 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:49] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 20:18:52 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:52] "GET /targets HTTP/1.1" 200 -
+24-06-2024 20:18:52 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:52] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+24-06-2024 20:18:52 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:52] "[36mGET /static/js/jquery-3.7.1.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:18:52 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:52] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:18:52 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:52] "[36mGET /static/css/custom.css HTTP/1.1[0m" 304 -
+24-06-2024 20:18:52 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:52] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 20:18:52 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:52] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-06-2024 20:18:53 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:53] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 20:18:53 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-06-2024 20:18:53 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:53] "GET /get_targets HTTP/1.1" 200 -
+24-06-2024 20:18:59 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:59] "GET /settings HTTP/1.1" 200 -
+24-06-2024 20:18:59 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:59] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+24-06-2024 20:18:59 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:59] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:18:59 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:59] "[36mGET /static/js/jquery-3.7.1.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:18:59 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 20:18:59 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:59] "[36mGET /static/css/custom.css HTTP/1.1[0m" 304 -
+24-06-2024 20:18:59 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:59] "GET /static/js/settings.js HTTP/1.1" 200 -
+24-06-2024 20:18:59 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:59] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 20:18:59 - INFO: 127.0.0.1 - - [13/Jun/2024 20:18:59] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 20:19:05 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:05] "GET / HTTP/1.1" 200 -
+24-06-2024 20:19:05 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:05] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+24-06-2024 20:19:05 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:05] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:05 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:05] "[36mGET /static/js/jquery-3.7.1.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:05 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:05] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:05 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:05] "[36mGET /static/css/custom.css HTTP/1.1[0m" 304 -
+24-06-2024 20:19:05 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:05] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 20:19:06 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:06] "GET /targets HTTP/1.1" 200 -
+24-06-2024 20:19:06 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:06] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+24-06-2024 20:19:06 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:06] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:06 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:06] "[36mGET /static/js/jquery-3.7.1.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:06 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:06] "[36mGET /static/css/custom.css HTTP/1.1[0m" 304 -
+24-06-2024 20:19:06 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:06] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:06 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:06] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:06 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-06-2024 20:19:06 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:06] "GET /get_targets HTTP/1.1" 200 -
+24-06-2024 20:19:06 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:06] "[35m[1mGET /get_settings HTTP/1.1[0m" 500 -
+24-06-2024 20:19:26 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:26] "GET /settings HTTP/1.1" 200 -
+24-06-2024 20:19:26 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:26] "[36mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:26 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:26] "[36mGET /static/js/jquery-3.7.1.min.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:26 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:26] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+24-06-2024 20:19:26 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:26] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:26 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:26] "[36mGET /static/css/custom.css HTTP/1.1[0m" 304 -
+24-06-2024 20:19:26 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:26] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-06-2024 20:19:27 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:27] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 20:19:27 - INFO: 127.0.0.1 - - [13/Jun/2024 20:19:27] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 20:19:42 - INFO:  * Detected change in '/home/andrea/AstroTool/run.py', reloading
+24-06-2024 20:19:42 - INFO:  * Restarting with stat
+24-06-2024 20:19:43 - WARNING:  * Debugger is active!
+24-06-2024 20:19:43 - INFO:  * Debugger PIN: 197-283-252

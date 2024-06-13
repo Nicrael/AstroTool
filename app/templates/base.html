@@ -12,45 +12,63 @@
         <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
         {% block scripts %}{% endblock %}
     </head>    
-<body>
-    <header class="clearfix">
-        <div class="left-header">
-            <nav>
-                <ul>
-                    <li><a href="{{ url_for('main.index') }}">Desk</a></li>
-                    <li><a href="{{ url_for('main.targets') }}">Targets</a></li>
-                    <li><a href="{{ url_for('main.observations') }}">Observations</a></li>
-                </ul>
-            </nav>
-        </div>
-        <div class="right-header">
-            <nav>
-                <ul>
-                    <li><a href="{{ url_for('main.settings') }}">Settings</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
-    <main>
-        {% block hero %}
-        <div class="hero">
-            <div class="hero-title">
-                {% block herotitle %}{% endblock %}
+    <body>
+        <header class="container-fluid clearfix">
+            <div class="row">
+                <div class="col-md-9">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <div class="container-fluid">
+                            <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                                <li class="nav-item"><a class="nav-link" href="{{ url_for('main.index') }}">Desk</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{ url_for('main.targets') }}">Targets</a></li>
+                                <li class="nav-item"><a class="nav-link" href="{{ url_for('main.observations') }}">Observations</a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+                <div class="col-md-3">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <div class="container-fluid">
+                            <ul class="navbar-nav ms-auto mb-2 mb-md-0">
+                                <li class="nav-item"><a class="nav-link" href="{{ url_for('main.settings') }}">Settings</a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
             </div>
-            <div class="hero-breadcrumbs">
-                <ul class="breadcrumbs">
-                    <li id="wd_breadcrumbs"></li>
-                    <li id="data_breadcrumbs"></li>
-                </ul>    
+        </header>
+        <main>
+            {% block hero %}
+            <div class="container-fluid hero">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="hero-title">
+                                {% block herotitle %}{% endblock %}
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="hero-breadcrumbs">
+                                <ul class="breadcrumb">
+                                    <li class="breadcrumb-item" id="wd_breadcrumbs"></li>
+                                    <li class="breadcrumb-item" id="data_breadcrumbs"></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
-        {% endblock %}
-        <div class="content">
-            {% block content %}{% endblock %}
-        </div>
-    </main>
-    <footer>
-        <p>Astro Tool - &copy; 2024 By Andrea Damonte</p>
-    </footer>
-</body>
+            {% endblock %}
+            <div class="container-fluid content">
+                <div class="container">
+                    {% block content %}{% endblock %}
+                </div>
+            </div>
+        </main>
+        <footer class="container-fluid">
+            <div class="container">
+                <p>Astro Tool - &copy; 2024 By Andrea Damonte</p>
+            </div>
+        </footer>
+    </body>
 </html>
