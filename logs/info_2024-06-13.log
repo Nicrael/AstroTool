@@ -1,0 +1,57 @@
+24-06-2024 18:53:57 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+24-06-2024 18:53:57 - INFO: [33mPress CTRL+C to quit[0m
+24-06-2024 18:53:57 - INFO:  * Restarting with stat
+24-06-2024 18:53:58 - WARNING:  * Debugger is active!
+24-06-2024 18:53:58 - INFO:  * Debugger PIN: 103-980-406
+24-06-2024 18:54:03 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:03] "GET / HTTP/1.1" 200 -
+24-06-2024 18:54:03 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:03] "GET /static/css/styles.css HTTP/1.1" 200 -
+24-06-2024 18:54:03 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:03] "GET /static/js/scripts.js HTTP/1.1" 200 -
+24-06-2024 18:54:04 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:04] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 18:54:11 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:11] "GET /targets HTTP/1.1" 200 -
+24-06-2024 18:54:11 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-06-2024 18:54:11 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:11] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:11 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:11] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:11 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:11] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 18:54:11 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-06-2024 18:54:11 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:11] "GET /get_targets HTTP/1.1" 200 -
+24-06-2024 18:54:16 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:16] "GET /targets HTTP/1.1" 200 -
+24-06-2024 18:54:16 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-06-2024 18:54:16 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:16] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:16 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:16] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:16 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:16] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 18:54:16 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-06-2024 18:54:16 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:16] "GET /get_targets HTTP/1.1" 200 -
+24-06-2024 18:54:17 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:17] "GET /observations HTTP/1.1" 200 -
+24-06-2024 18:54:17 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-06-2024 18:54:17 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:17] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:17 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:17] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 18:54:18 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:18] "GET /targets HTTP/1.1" 200 -
+24-06-2024 18:54:18 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-06-2024 18:54:18 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:18] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:18 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:18] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:18 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:18] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 18:54:18 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-06-2024 18:54:18 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:18] "GET /get_targets HTTP/1.1" 200 -
+24-06-2024 18:54:27 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:27] "GET /observations HTTP/1.1" 200 -
+24-06-2024 18:54:27 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-06-2024 18:54:27 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:27] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:27 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:27] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 18:54:28 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:28] "GET /targets HTTP/1.1" 200 -
+24-06-2024 18:54:28 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-06-2024 18:54:28 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:28] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:28 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:28] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:28 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:28] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 18:54:28 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-06-2024 18:54:28 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:28] "GET /get_targets HTTP/1.1" 200 -
+24-06-2024 18:54:29 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:29] "GET / HTTP/1.1" 200 -
+24-06-2024 18:54:29 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:29] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-06-2024 18:54:29 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:29] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:29 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:29] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 18:54:30 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:30] "GET /targets HTTP/1.1" 200 -
+24-06-2024 18:54:30 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:30] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-06-2024 18:54:30 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:30] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:30 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:30] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-06-2024 18:54:30 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:30] "GET /get_settings HTTP/1.1" 200 -
+24-06-2024 18:54:30 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-06-2024 18:54:30 - INFO: 127.0.0.1 - - [13/Jun/2024 18:54:30] "GET /get_targets HTTP/1.1" 200 -

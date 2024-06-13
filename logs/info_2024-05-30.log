@@ -1,0 +1,327 @@
+24-05-2024 00:00:33 - WARNING:  * Debugger is active!
+24-05-2024 00:00:33 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:00:33 - INFO: 127.0.0.1 - - [30/May/2024 00:00:33] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:00:33 - INFO: 127.0.0.1 - - [30/May/2024 00:00:33] "[36mGET /get_targets?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+24-05-2024 00:00:33 - INFO: 127.0.0.1 - - [30/May/2024 00:00:33] "[36mGET /get_targets?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+24-05-2024 00:00:33 - INFO: 127.0.0.1 - - [30/May/2024 00:00:33] "[36mGET /get_targets?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+24-05-2024 00:01:15 - INFO: 127.0.0.1 - - [30/May/2024 00:01:15] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:01:15 - INFO: 127.0.0.1 - - [30/May/2024 00:01:15] "[36mGET /get_targets?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+24-05-2024 00:01:15 - INFO: 127.0.0.1 - - [30/May/2024 00:01:15] "[36mGET /get_targets?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+24-05-2024 00:01:15 - INFO: 127.0.0.1 - - [30/May/2024 00:01:15] "[36mGET /get_targets?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+24-05-2024 00:02:20 - INFO: 127.0.0.1 - - [30/May/2024 00:02:20] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:02:20 - INFO: 127.0.0.1 - - [30/May/2024 00:02:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:02:20 - INFO: 127.0.0.1 - - [30/May/2024 00:02:20] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:02:20 - INFO: 127.0.0.1 - - [30/May/2024 00:02:20] "GET /static/js/targets.js HTTP/1.1" 200 -
+24-05-2024 00:02:21 - INFO: 127.0.0.1 - - [30/May/2024 00:02:21] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:02:21 - INFO: 127.0.0.1 - - [30/May/2024 00:02:21] "[35m[1mGET /get_settings HTTP/1.1[0m" 500 -
+24-05-2024 00:02:45 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/config/config_handler.py', reloading
+24-05-2024 00:02:46 - WARNING:  * Debugger is active!
+24-05-2024 00:02:46 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:03:11 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+24-05-2024 00:03:11 - INFO: [33mPress CTRL+C to quit[0m
+24-05-2024 00:03:11 - INFO:  * Restarting with stat
+24-05-2024 00:03:12 - WARNING:  * Debugger is active!
+24-05-2024 00:03:12 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:03:12 - INFO: 127.0.0.1 - - [30/May/2024 00:03:12] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:03:12 - INFO: 127.0.0.1 - - [30/May/2024 00:03:12] "[36mGET /get_targets?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+24-05-2024 00:03:12 - INFO: 127.0.0.1 - - [30/May/2024 00:03:12] "[36mGET /get_targets?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+24-05-2024 00:03:12 - INFO: 127.0.0.1 - - [30/May/2024 00:03:12] "[36mGET /get_targets?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+24-05-2024 00:03:24 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+24-05-2024 00:03:24 - INFO: [33mPress CTRL+C to quit[0m
+24-05-2024 00:03:24 - INFO:  * Restarting with stat
+24-05-2024 00:03:25 - WARNING:  * Debugger is active!
+24-05-2024 00:03:25 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:03:26 - INFO: 127.0.0.1 - - [30/May/2024 00:03:26] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:03:26 - INFO: 127.0.0.1 - - [30/May/2024 00:03:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:03:26 - INFO: 127.0.0.1 - - [30/May/2024 00:03:26] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:03:26 - INFO: 127.0.0.1 - - [30/May/2024 00:03:26] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:03:26 - INFO: 127.0.0.1 - - [30/May/2024 00:03:26] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:03:26 - INFO: 127.0.0.1 - - [30/May/2024 00:03:26] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:04:20 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/data/data_classes.py', reloading
+24-05-2024 00:04:20 - INFO:  * Restarting with stat
+24-05-2024 00:04:21 - WARNING:  * Debugger is active!
+24-05-2024 00:04:21 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:04:21 - INFO: 127.0.0.1 - - [30/May/2024 00:04:21] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:04:21 - INFO: 127.0.0.1 - - [30/May/2024 00:04:21] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:04:21 - INFO: 127.0.0.1 - - [30/May/2024 00:04:21] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:04:21 - INFO: 127.0.0.1 - - [30/May/2024 00:04:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:04:22 - INFO: 127.0.0.1 - - [30/May/2024 00:04:22] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:04:22 - INFO: 127.0.0.1 - - [30/May/2024 00:04:22] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:06:02 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/data/data_classes.py', reloading
+24-05-2024 00:06:02 - INFO:  * Restarting with stat
+24-05-2024 00:06:03 - WARNING:  * Debugger is active!
+24-05-2024 00:06:03 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:06:04 - INFO: 127.0.0.1 - - [30/May/2024 00:06:04] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:06:04 - INFO: 127.0.0.1 - - [30/May/2024 00:06:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:06:04 - INFO: 127.0.0.1 - - [30/May/2024 00:06:04] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:06:04 - INFO: 127.0.0.1 - - [30/May/2024 00:06:04] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:06:04 - INFO: 127.0.0.1 - - [30/May/2024 00:06:04] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:06:04 - INFO: 127.0.0.1 - - [30/May/2024 00:06:04] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:06:21 - INFO: 127.0.0.1 - - [30/May/2024 00:06:21] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:06:21 - INFO: 127.0.0.1 - - [30/May/2024 00:06:21] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:06:21 - INFO: 127.0.0.1 - - [30/May/2024 00:06:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:06:21 - INFO: 127.0.0.1 - - [30/May/2024 00:06:21] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:06:21 - INFO: 127.0.0.1 - - [30/May/2024 00:06:21] "[35m[1mGET /get_settings HTTP/1.1[0m" 500 -
+24-05-2024 00:06:21 - INFO: 127.0.0.1 - - [30/May/2024 00:06:21] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:06:29 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+24-05-2024 00:06:29 - INFO: [33mPress CTRL+C to quit[0m
+24-05-2024 00:06:29 - INFO:  * Restarting with stat
+24-05-2024 00:06:30 - WARNING:  * Debugger is active!
+24-05-2024 00:06:30 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:06:31 - INFO: 127.0.0.1 - - [30/May/2024 00:06:31] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:06:31 - INFO: 127.0.0.1 - - [30/May/2024 00:06:31] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:06:31 - INFO: 127.0.0.1 - - [30/May/2024 00:06:31] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:06:31 - INFO: 127.0.0.1 - - [30/May/2024 00:06:31] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:06:31 - INFO: 127.0.0.1 - - [30/May/2024 00:06:31] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:06:31 - ERROR: XML file is invalid!
+24-05-2024 00:06:31 - ERROR: data.xml:87:0:ERROR:SCHEMASV:SCHEMAV_CVC_COMPLEX_TYPE_2_1: Element 'image': Element content is not allowed, because the content type is empty.
+24-05-2024 00:06:31 - ERROR: The xml file structure does not match the schema!
+24-05-2024 00:06:31 - INFO: 127.0.0.1 - - [30/May/2024 00:06:31] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:07:19 - INFO: 127.0.0.1 - - [30/May/2024 00:07:19] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:07:19 - INFO: 127.0.0.1 - - [30/May/2024 00:07:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:07:19 - INFO: 127.0.0.1 - - [30/May/2024 00:07:19] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-05-2024 00:07:19 - INFO: 127.0.0.1 - - [30/May/2024 00:07:19] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:07:19 - INFO: 127.0.0.1 - - [30/May/2024 00:07:19] "[35m[1mGET /get_settings HTTP/1.1[0m" 500 -
+24-05-2024 00:07:19 - INFO: 127.0.0.1 - - [30/May/2024 00:07:19] "[35m[1mGET /get_settings HTTP/1.1[0m" 500 -
+24-05-2024 00:07:23 - INFO: 127.0.0.1 - - [30/May/2024 00:07:23] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:07:23 - INFO: 127.0.0.1 - - [30/May/2024 00:07:23] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-05-2024 00:07:23 - INFO: 127.0.0.1 - - [30/May/2024 00:07:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:07:23 - INFO: 127.0.0.1 - - [30/May/2024 00:07:23] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:07:23 - INFO: 127.0.0.1 - - [30/May/2024 00:07:23] "[35m[1mGET /get_settings HTTP/1.1[0m" 500 -
+24-05-2024 00:07:23 - INFO: 127.0.0.1 - - [30/May/2024 00:07:23] "[35m[1mGET /get_settings HTTP/1.1[0m" 500 -
+24-05-2024 00:08:49 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+24-05-2024 00:08:49 - INFO: [33mPress CTRL+C to quit[0m
+24-05-2024 00:08:49 - INFO:  * Restarting with stat
+24-05-2024 00:08:50 - WARNING:  * Debugger is active!
+24-05-2024 00:08:50 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:08:50 - INFO: 127.0.0.1 - - [30/May/2024 00:08:50] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:08:50 - INFO: 127.0.0.1 - - [30/May/2024 00:08:50] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:08:51 - INFO: 127.0.0.1 - - [30/May/2024 00:08:51] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-05-2024 00:08:51 - INFO: 127.0.0.1 - - [30/May/2024 00:08:51] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:08:51 - INFO: 127.0.0.1 - - [30/May/2024 00:08:51] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:08:51 - INFO: 127.0.0.1 - - [30/May/2024 00:08:51] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:09:54 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/app/routes.py', reloading
+24-05-2024 00:09:54 - INFO:  * Restarting with stat
+24-05-2024 00:09:55 - WARNING:  * Debugger is active!
+24-05-2024 00:09:55 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:10:23 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/app/routes.py', reloading
+24-05-2024 00:10:23 - INFO:  * Restarting with stat
+24-05-2024 00:10:24 - WARNING:  * Debugger is active!
+24-05-2024 00:10:24 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:11:29 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/data/data_handler.py', reloading
+24-05-2024 00:11:29 - INFO:  * Restarting with stat
+24-05-2024 00:11:30 - WARNING:  * Debugger is active!
+24-05-2024 00:11:30 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:11:33 - INFO: 127.0.0.1 - - [30/May/2024 00:11:33] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:11:33 - INFO: 127.0.0.1 - - [30/May/2024 00:11:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:11:33 - INFO: 127.0.0.1 - - [30/May/2024 00:11:33] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:33 - INFO: 127.0.0.1 - - [30/May/2024 00:11:33] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:33 - INFO: 127.0.0.1 - - [30/May/2024 00:11:33] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:33 - ERROR: XML file is invalid!
+24-05-2024 00:11:33 - ERROR: data.xml:87:0:ERROR:SCHEMASV:SCHEMAV_CVC_COMPLEX_TYPE_2_1: Element 'image': Element content is not allowed, because the content type is empty.
+24-05-2024 00:11:33 - ERROR: The xml file structure does not match the schema!
+24-05-2024 00:11:33 - INFO: 127.0.0.1 - - [30/May/2024 00:11:33] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:11:35 - INFO: 127.0.0.1 - - [30/May/2024 00:11:35] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:11:35 - INFO: 127.0.0.1 - - [30/May/2024 00:11:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:11:35 - INFO: 127.0.0.1 - - [30/May/2024 00:11:35] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:35 - INFO: 127.0.0.1 - - [30/May/2024 00:11:35] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:35 - INFO: 127.0.0.1 - - [30/May/2024 00:11:35] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:35 - INFO: 127.0.0.1 - - [30/May/2024 00:11:35] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:36 - INFO: 127.0.0.1 - - [30/May/2024 00:11:36] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:11:36 - INFO: 127.0.0.1 - - [30/May/2024 00:11:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:11:36 - INFO: 127.0.0.1 - - [30/May/2024 00:11:36] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:36 - INFO: 127.0.0.1 - - [30/May/2024 00:11:36] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:36 - INFO: 127.0.0.1 - - [30/May/2024 00:11:36] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:36 - ERROR: XML file is invalid!
+24-05-2024 00:11:36 - ERROR: data.xml:87:0:ERROR:SCHEMASV:SCHEMAV_CVC_COMPLEX_TYPE_2_1: Element 'image': Element content is not allowed, because the content type is empty.
+24-05-2024 00:11:36 - ERROR: The xml file structure does not match the schema!
+24-05-2024 00:11:36 - INFO: 127.0.0.1 - - [30/May/2024 00:11:36] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:11:38 - INFO: 127.0.0.1 - - [30/May/2024 00:11:38] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:11:38 - INFO: 127.0.0.1 - - [30/May/2024 00:11:38] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:38 - INFO: 127.0.0.1 - - [30/May/2024 00:11:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:11:38 - INFO: 127.0.0.1 - - [30/May/2024 00:11:38] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:38 - INFO: 127.0.0.1 - - [30/May/2024 00:11:38] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:38 - INFO: 127.0.0.1 - - [30/May/2024 00:11:38] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:41 - INFO: 127.0.0.1 - - [30/May/2024 00:11:41] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:11:42 - INFO: 127.0.0.1 - - [30/May/2024 00:11:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:11:42 - INFO: 127.0.0.1 - - [30/May/2024 00:11:42] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:42 - INFO: 127.0.0.1 - - [30/May/2024 00:11:42] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:42 - INFO: 127.0.0.1 - - [30/May/2024 00:11:42] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:42 - INFO: 127.0.0.1 - - [30/May/2024 00:11:42] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:44 - INFO: 127.0.0.1 - - [30/May/2024 00:11:44] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:11:44 - INFO: 127.0.0.1 - - [30/May/2024 00:11:44] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:44 - INFO: 127.0.0.1 - - [30/May/2024 00:11:44] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:44 - INFO: 127.0.0.1 - - [30/May/2024 00:11:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:11:44 - INFO: 127.0.0.1 - - [30/May/2024 00:11:44] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:44 - ERROR: XML file is invalid!
+24-05-2024 00:11:44 - ERROR: data.xml:87:0:ERROR:SCHEMASV:SCHEMAV_CVC_COMPLEX_TYPE_2_1: Element 'image': Element content is not allowed, because the content type is empty.
+24-05-2024 00:11:44 - ERROR: The xml file structure does not match the schema!
+24-05-2024 00:11:44 - INFO: 127.0.0.1 - - [30/May/2024 00:11:44] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:11:46 - INFO: 127.0.0.1 - - [30/May/2024 00:11:46] "GET /observations HTTP/1.1" 200 -
+24-05-2024 00:11:46 - INFO: 127.0.0.1 - - [30/May/2024 00:11:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:11:46 - INFO: 127.0.0.1 - - [30/May/2024 00:11:46] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:46 - INFO: 127.0.0.1 - - [30/May/2024 00:11:46] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:47 - INFO: 127.0.0.1 - - [30/May/2024 00:11:47] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:11:47 - INFO: 127.0.0.1 - - [30/May/2024 00:11:47] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:11:47 - INFO: 127.0.0.1 - - [30/May/2024 00:11:47] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:47 - INFO: 127.0.0.1 - - [30/May/2024 00:11:47] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:47 - INFO: 127.0.0.1 - - [30/May/2024 00:11:47] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:47 - ERROR: XML file is invalid!
+24-05-2024 00:11:47 - ERROR: data.xml:87:0:ERROR:SCHEMASV:SCHEMAV_CVC_COMPLEX_TYPE_2_1: Element 'image': Element content is not allowed, because the content type is empty.
+24-05-2024 00:11:47 - ERROR: The xml file structure does not match the schema!
+24-05-2024 00:11:47 - INFO: 127.0.0.1 - - [30/May/2024 00:11:47] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:11:48 - INFO: 127.0.0.1 - - [30/May/2024 00:11:48] "GET / HTTP/1.1" 200 -
+24-05-2024 00:11:48 - INFO: 127.0.0.1 - - [30/May/2024 00:11:48] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:48 - INFO: 127.0.0.1 - - [30/May/2024 00:11:48] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:11:48 - INFO: 127.0.0.1 - - [30/May/2024 00:11:48] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:11:58 - INFO: 127.0.0.1 - - [30/May/2024 00:11:58] "GET / HTTP/1.1" 200 -
+24-05-2024 00:11:58 - INFO: 127.0.0.1 - - [30/May/2024 00:11:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:11:58 - INFO: 127.0.0.1 - - [30/May/2024 00:11:58] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:11:58 - INFO: 127.0.0.1 - - [30/May/2024 00:11:58] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:12:00 - INFO: 127.0.0.1 - - [30/May/2024 00:12:00] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:12:00 - INFO: 127.0.0.1 - - [30/May/2024 00:12:00] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:12:00 - INFO: 127.0.0.1 - - [30/May/2024 00:12:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:12:00 - INFO: 127.0.0.1 - - [30/May/2024 00:12:00] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:12:00 - INFO: 127.0.0.1 - - [30/May/2024 00:12:00] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:12:00 - ERROR: XML file is invalid!
+24-05-2024 00:12:00 - ERROR: data.xml:87:0:ERROR:SCHEMASV:SCHEMAV_CVC_COMPLEX_TYPE_2_1: Element 'image': Element content is not allowed, because the content type is empty.
+24-05-2024 00:12:00 - ERROR: The xml file structure does not match the schema!
+24-05-2024 00:12:00 - INFO: 127.0.0.1 - - [30/May/2024 00:12:00] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:12:08 - INFO: 127.0.0.1 - - [30/May/2024 00:12:08] "GET /observations HTTP/1.1" 200 -
+24-05-2024 00:12:08 - INFO: 127.0.0.1 - - [30/May/2024 00:12:08] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:12:08 - INFO: 127.0.0.1 - - [30/May/2024 00:12:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:12:08 - INFO: 127.0.0.1 - - [30/May/2024 00:12:08] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:12:11 - INFO: 127.0.0.1 - - [30/May/2024 00:12:11] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:12:11 - INFO: 127.0.0.1 - - [30/May/2024 00:12:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:12:11 - INFO: 127.0.0.1 - - [30/May/2024 00:12:11] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-05-2024 00:12:11 - INFO: 127.0.0.1 - - [30/May/2024 00:12:11] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:12:11 - INFO: 127.0.0.1 - - [30/May/2024 00:12:11] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:12:11 - INFO: 127.0.0.1 - - [30/May/2024 00:12:11] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:13:02 - INFO: 127.0.0.1 - - [30/May/2024 00:13:02] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:13:02 - INFO: 127.0.0.1 - - [30/May/2024 00:13:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:13:02 - INFO: 127.0.0.1 - - [30/May/2024 00:13:02] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-05-2024 00:13:02 - INFO: 127.0.0.1 - - [30/May/2024 00:13:02] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:13:02 - INFO: 127.0.0.1 - - [30/May/2024 00:13:02] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:13:02 - INFO: 127.0.0.1 - - [30/May/2024 00:13:02] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:13:04 - INFO: 127.0.0.1 - - [30/May/2024 00:13:04] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:13:04 - INFO: 127.0.0.1 - - [30/May/2024 00:13:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:13:04 - INFO: 127.0.0.1 - - [30/May/2024 00:13:04] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-05-2024 00:13:04 - INFO: 127.0.0.1 - - [30/May/2024 00:13:04] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:13:04 - INFO: 127.0.0.1 - - [30/May/2024 00:13:04] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:13:04 - INFO: 127.0.0.1 - - [30/May/2024 00:13:04] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:14:06 - INFO: 127.0.0.1 - - [30/May/2024 00:14:06] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:14:06 - INFO: 127.0.0.1 - - [30/May/2024 00:14:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:14:06 - INFO: 127.0.0.1 - - [30/May/2024 00:14:06] "GET /static/js/settings.js HTTP/1.1" 200 -
+24-05-2024 00:14:06 - INFO: 127.0.0.1 - - [30/May/2024 00:14:06] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:14:06 - INFO: 127.0.0.1 - - [30/May/2024 00:14:06] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:14:06 - INFO: 127.0.0.1 - - [30/May/2024 00:14:06] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:15:13 - INFO: 127.0.0.1 - - [30/May/2024 00:15:13] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:15:13 - INFO: 127.0.0.1 - - [30/May/2024 00:15:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:15:13 - INFO: 127.0.0.1 - - [30/May/2024 00:15:13] "GET /static/js/settings.js HTTP/1.1" 200 -
+24-05-2024 00:15:13 - INFO: 127.0.0.1 - - [30/May/2024 00:15:13] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:15:13 - INFO: 127.0.0.1 - - [30/May/2024 00:15:13] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:15:20 - INFO: 127.0.0.1 - - [30/May/2024 00:15:20] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:15:20 - INFO: 127.0.0.1 - - [30/May/2024 00:15:20] "GET /static/js/settings.js HTTP/1.1" 200 -
+24-05-2024 00:15:20 - INFO: 127.0.0.1 - - [30/May/2024 00:15:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:15:20 - INFO: 127.0.0.1 - - [30/May/2024 00:15:20] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:15:21 - INFO: 127.0.0.1 - - [30/May/2024 00:15:21] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:16:07 - INFO: 127.0.0.1 - - [30/May/2024 00:16:07] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:16:07 - INFO: 127.0.0.1 - - [30/May/2024 00:16:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:16:07 - INFO: 127.0.0.1 - - [30/May/2024 00:16:07] "GET /static/js/settings.js HTTP/1.1" 200 -
+24-05-2024 00:16:07 - INFO: 127.0.0.1 - - [30/May/2024 00:16:07] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:16:07 - INFO: 127.0.0.1 - - [30/May/2024 00:16:07] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:16:07 - INFO: 127.0.0.1 - - [30/May/2024 00:16:07] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:17:11 - INFO: 127.0.0.1 - - [30/May/2024 00:17:11] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:17:11 - INFO: 127.0.0.1 - - [30/May/2024 00:17:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:17:11 - INFO: 127.0.0.1 - - [30/May/2024 00:17:11] "GET /static/js/settings.js HTTP/1.1" 200 -
+24-05-2024 00:17:11 - INFO: 127.0.0.1 - - [30/May/2024 00:17:11] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:17:11 - INFO: 127.0.0.1 - - [30/May/2024 00:17:11] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:17:11 - INFO: 127.0.0.1 - - [30/May/2024 00:17:11] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:17:13 - INFO: 127.0.0.1 - - [30/May/2024 00:17:13] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:17:13 - INFO: 127.0.0.1 - - [30/May/2024 00:17:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:17:13 - INFO: 127.0.0.1 - - [30/May/2024 00:17:13] "[36mGET /static/js/settings.js HTTP/1.1[0m" 304 -
+24-05-2024 00:17:13 - INFO: 127.0.0.1 - - [30/May/2024 00:17:13] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:17:13 - INFO: 127.0.0.1 - - [30/May/2024 00:17:13] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:17:13 - INFO: 127.0.0.1 - - [30/May/2024 00:17:13] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:19:06 - INFO: 127.0.0.1 - - [30/May/2024 00:19:06] "GET /settings HTTP/1.1" 200 -
+24-05-2024 00:19:06 - INFO: 127.0.0.1 - - [30/May/2024 00:19:06] "GET /static/js/settings.js HTTP/1.1" 200 -
+24-05-2024 00:19:06 - INFO: 127.0.0.1 - - [30/May/2024 00:19:06] "GET /static/js/scripts.js HTTP/1.1" 200 -
+24-05-2024 00:19:06 - INFO: 127.0.0.1 - - [30/May/2024 00:19:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:19:06 - INFO: 127.0.0.1 - - [30/May/2024 00:19:06] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:19:06 - INFO: 127.0.0.1 - - [30/May/2024 00:19:06] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:19:11 - INFO: 127.0.0.1 - - [30/May/2024 00:19:11] "GET / HTTP/1.1" 200 -
+24-05-2024 00:19:11 - INFO: 127.0.0.1 - - [30/May/2024 00:19:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:19:11 - INFO: 127.0.0.1 - - [30/May/2024 00:19:11] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:19:11 - INFO: 127.0.0.1 - - [30/May/2024 00:19:11] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:19:12 - INFO: 127.0.0.1 - - [30/May/2024 00:19:12] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:19:12 - INFO: 127.0.0.1 - - [30/May/2024 00:19:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:19:12 - INFO: 127.0.0.1 - - [30/May/2024 00:19:12] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:19:12 - INFO: 127.0.0.1 - - [30/May/2024 00:19:12] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:19:12 - INFO: 127.0.0.1 - - [30/May/2024 00:19:12] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:19:12 - ERROR: XML file is invalid!
+24-05-2024 00:19:12 - ERROR: data.xml:87:0:ERROR:SCHEMASV:SCHEMAV_CVC_COMPLEX_TYPE_2_1: Element 'image': Element content is not allowed, because the content type is empty.
+24-05-2024 00:19:12 - ERROR: The xml file structure does not match the schema!
+24-05-2024 00:19:12 - INFO: 127.0.0.1 - - [30/May/2024 00:19:12] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:19:53 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/data/data_handler.py', reloading
+24-05-2024 00:19:53 - INFO:  * Restarting with stat
+24-05-2024 00:19:54 - WARNING:  * Debugger is active!
+24-05-2024 00:19:54 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:19:54 - INFO: 127.0.0.1 - - [30/May/2024 00:19:54] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:19:54 - INFO: 127.0.0.1 - - [30/May/2024 00:19:54] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:19:54 - INFO: 127.0.0.1 - - [30/May/2024 00:19:54] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:19:54 - INFO: 127.0.0.1 - - [30/May/2024 00:19:54] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:19:54 - INFO: 127.0.0.1 - - [30/May/2024 00:19:54] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:19:54 - INFO: 127.0.0.1 - - [30/May/2024 00:19:54] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:20:18 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/data/data_handler.py', reloading
+24-05-2024 00:20:18 - INFO:  * Restarting with stat
+24-05-2024 00:20:19 - WARNING:  * Debugger is active!
+24-05-2024 00:20:19 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:20:22 - INFO: 127.0.0.1 - - [30/May/2024 00:20:22] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:20:22 - INFO: 127.0.0.1 - - [30/May/2024 00:20:22] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:20:22 - INFO: 127.0.0.1 - - [30/May/2024 00:20:22] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:20:22 - INFO: 127.0.0.1 - - [30/May/2024 00:20:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:20:22 - INFO: Current working directory: /home/andrea/workspace/GUItool
+24-05-2024 00:20:22 - INFO: 127.0.0.1 - - [30/May/2024 00:20:22] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:20:22 - INFO: 127.0.0.1 - - [30/May/2024 00:20:22] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:20:59 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/data/data_handler.py', reloading
+24-05-2024 00:20:59 - INFO:  * Restarting with stat
+24-05-2024 00:21:00 - WARNING:  * Debugger is active!
+24-05-2024 00:21:00 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:21:00 - INFO: 127.0.0.1 - - [30/May/2024 00:21:00] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:21:00 - INFO: 127.0.0.1 - - [30/May/2024 00:21:00] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:21:00 - INFO: 127.0.0.1 - - [30/May/2024 00:21:00] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:21:00 - INFO: 127.0.0.1 - - [30/May/2024 00:21:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:21:00 - INFO: 127.0.0.1 - - [30/May/2024 00:21:00] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:21:00 - ERROR: XML file is invalid!
+24-05-2024 00:21:00 - ERROR: data.xml:87:0:ERROR:SCHEMASV:SCHEMAV_CVC_COMPLEX_TYPE_2_1: Element 'image': Element content is not allowed, because the content type is empty.
+24-05-2024 00:21:00 - ERROR: The xml file structure does not match the schema!
+24-05-2024 00:21:00 - INFO: 127.0.0.1 - - [30/May/2024 00:21:00] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:21:31 - INFO: 127.0.0.1 - - [30/May/2024 00:21:31] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:21:31 - INFO: 127.0.0.1 - - [30/May/2024 00:21:31] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:21:31 - INFO: 127.0.0.1 - - [30/May/2024 00:21:31] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:21:31 - INFO: 127.0.0.1 - - [30/May/2024 00:21:31] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:21:31 - INFO: 127.0.0.1 - - [30/May/2024 00:21:31] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:21:31 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-05-2024 00:21:31 - INFO: 127.0.0.1 - - [30/May/2024 00:21:31] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 00:22:20 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/data/data_handler.py', reloading
+24-05-2024 00:22:20 - INFO:  * Restarting with stat
+24-05-2024 00:22:21 - WARNING:  * Debugger is active!
+24-05-2024 00:22:21 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 00:22:21 - INFO: 127.0.0.1 - - [30/May/2024 00:22:21] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:22:21 - INFO: 127.0.0.1 - - [30/May/2024 00:22:21] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:22:21 - INFO: 127.0.0.1 - - [30/May/2024 00:22:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:22:21 - INFO: 127.0.0.1 - - [30/May/2024 00:22:21] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:22:21 - INFO: 127.0.0.1 - - [30/May/2024 00:22:21] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:22:21 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-05-2024 00:22:21 - INFO: 127.0.0.1 - - [30/May/2024 00:22:21] "GET /get_targets HTTP/1.1" 200 -
+24-05-2024 00:22:40 - INFO: 127.0.0.1 - - [30/May/2024 00:22:40] "GET /targets HTTP/1.1" 200 -
+24-05-2024 00:22:40 - INFO: 127.0.0.1 - - [30/May/2024 00:22:40] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 00:22:40 - INFO: 127.0.0.1 - - [30/May/2024 00:22:40] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 00:22:40 - INFO: 127.0.0.1 - - [30/May/2024 00:22:40] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 00:22:40 - INFO: 127.0.0.1 - - [30/May/2024 00:22:40] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 00:22:40 - INFO: Data loaded from /home/andrea/workspace/GUITestDir1/data.xml file
+24-05-2024 00:22:40 - INFO: 127.0.0.1 - - [30/May/2024 00:22:40] "GET /get_targets HTTP/1.1" 200 -

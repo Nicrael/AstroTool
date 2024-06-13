@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block scripts %}
+    <script src="{{ url_for('static', filename='js/settings.js') }}" defer></script>
+{% endblock %}
+
+{% block hero %}
+        <div class="hero">
+            <div class="hero-title">
+                <h1>Settings</h1>
+            </div>
+        </div>
+{% endblock %}
+
+{% block content %}
+<form method="POST" action="{{ url_for('main.settings') }}">
+    <div class="form-group">
+        <label for="working_directory">Working directory:</label>
+        <input type="text" id="working_directory" name="working_directory" value="">
+    </div>
+    <div class="form-group">
+        <label for="xml_file">Data file:</label>
+        <input type="text" id="xml_file" name="xml_file" value="">
+    </div>
+    <div class="form-group">
+        <button type="submit">Save</button>
+    </div>
+</form>
+
+
+{% endblock %}

@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block hero %}
+        <div class="hero">
+            <div class="hero-title">
+                <h1>Welcome!</h1>
+            </div>
+        </div>
+{% endblock %}
+
+{% block content %}
+<h2>This is the main page of the tool and here yoo will find some useful informations.</h2>
+<p>Click on the links above to navigate through the tool.</p>
+<ul>
+    <li><a href="#presentation">This tool's for what?</a></li>
+    <li><a href="#instructions">How to use it?</a></li>
+    <li><a href="#contact">Contact</a></li>
+</ul>
+
+<h2 id="presentation">This tool's for what?</h2>
+<p>This tool is a simple tool to help you to manage your targets and to help you to keep track of your work.</p>
+
+<h2 id="instructions">How to use it?</h2>
+<p>Click on the links above to navigate through the tool.</p>
+<p>You are now on the desk page.</p>
+<p>On the Targets page you can see all your targets and you can add or delete them.</p>
+<p>On the Settings page you can set your working directory and your XML file.</p>
+
+<h2 id="contact">Contact</h2>
+<p>If you have any questions or suggestions, please contact me at <a href="mailto:andrea@damonte.it">andrea@damonte.it</a>.</p>
+
+{% endblock %}
+
+

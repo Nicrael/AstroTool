@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Define simple types -->
+    <xs:simpleType name="DecimalType">
+        <xs:restriction base="xs:decimal"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="IntegerType">
+        <xs:restriction base="xs:integer"/>
+    </xs:simpleType>
+
+    <!-- Define complex types -->
+    <xs:complexType name="ObservationType">
+        <xs:sequence>
+            <xs:element name="obsid" type="xs:string"/>
+            <xs:element name="target_name" type="xs:string"/>
+            <xs:element name="start_date" type="xs:dateTime" />
+            <xs:element name="end_date" type="xs:dateTime" />
+            <xs:element name="bands" minOccurs="0">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="band" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="specific_data" >
+                <xs:complexType>
+                    <xs:choice>
+                        <xs:element name="unknown" type="SpecificDataType"/>
+                        <xs:element name="xmm-newton" type="XMM-NewtonSpecificDataType"/>
+                        <!-- Other TBD types (i.e. other missions or ) -->
+                    </xs:choice>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="mission" type="xs:string"/>
+        <xs:attribute name="dir_path" type="xs:string"/>
+    </xs:complexType>
+
+    <xs:complexType name="SpecificDataType">
+        <!-- Define this type as needed -->
+    </xs:complexType>
+
+    <xs:complexType name="XMM-NewtonSpecificDataType">
+        <xs:complexContent>
+            <xs:extension base="SpecificDataType">
+                <xs:sequence>
+                    <xs:element name="instruments" minOccurs="0">
+                        <xs:complexType>
+                            <xs:sequence>
+                                <xs:element name="instrument" type="XMM-NewtonInstrumentType" minOccurs="0" maxOccurs="unbounded"/>
+                            </xs:sequence>
+                        </xs:complexType>
+                    </xs:element>
+                    <xs:element name="reduction_folders" minOccurs="0">
+                        <xs:complexType>
+                            <xs:sequence>
+                                <xs:element name="reduction_folder" type="XMM-NewtonReductionType" minOccurs="0" maxOccurs="unbounded"/>
+                            </xs:sequence>
+                        </xs:complexType>
+                    </xs:element>
+                    <xs:element name="images" minOccurs="0">
+                        <xs:complexType>
+                            <xs:sequence>
+                                <xs:element name="image" type="XMM-NewtonImageType" minOccurs="0" maxOccurs="unbounded"/>
+                            </xs:sequence>
+                        </xs:complexType>
+                    </xs:element>
+                </xs:sequence>
+                <xs:attribute name="odf" type="xs:boolean"/>
+                <xs:attribute name="pps" type="xs:boolean"/>
+                <xs:attribute name="cif" type="xs:string"/>
+                <xs:attribute name="sumsas" type="xs:string"/>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="XMM-NewtonInstrumentType">
+        <xs:sequence>
+            <xs:element name="modes" minOccurs="0" >
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="mode" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="filters" minOccurs="0" >
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="filter" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="name" type="xs:string"/>
+        <xs:attribute name="active" type="xs:boolean"/>
+        <xs:attribute name="exposure" type="IntegerType"/>
+    </xs:complexType>
+
+    <xs:complexType name="XMM-NewtonReductionType">
+        <xs:attribute name="name" type="xs:string"/>
+        <xs:attribute name="dir_path" type="xs:string"/>
+    </xs:complexType>
+
+    <xs:complexType name="XMM-NewtonImageType">
+        <xs:attribute name="pipeline" type="xs:string"/>
+        <xs:attribute name="sensor" type="xs:string"/>
+        <xs:attribute name="exp_number" type="xs:string"/>
+        <xs:attribute name="file" type="xs:string"/>
+        <xs:attribute name="file_path" type="xs:string"/>
+        <xs:attribute name="mode" type="xs:string"/>
+        <xs:attribute name="filter" type="xs:string"/>
+        <xs:attribute name="duration" type="IntegerType"/>
+    </xs:complexType>
+
+    <!-- Define the main structure -->
+    <xs:element name="targets" >
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="target" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="observations" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="observation" type="ObservationType" minOccurs="0" maxOccurs="unbounded"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="name" type="xs:string"/>
+                        <xs:attribute name="simbad_name" type="xs:string"/>
+                        <xs:attribute name="ra" type="DecimalType"/>
+                        <xs:attribute name="dec" type="DecimalType"/>
+                        <xs:attribute name="dir_path" type="xs:string"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="dir_path" type="xs:string"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

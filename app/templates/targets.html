@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block scripts %}
+    <script src="{{ url_for('static', filename='js/targets.js') }}" defer></script>
+{% endblock %}
+
+{% block herotitle %}
+<h1>Targets</h1>
+{% endblock %}
+
+{% block content %}
+<div class="targets">
+    <h2>Targets current list</h2>
+    <div id="name-list"></div>
+{% endblock %}

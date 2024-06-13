@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block herotitle %}
+<h1>Observations</h1>
+{% endblock %}
+
+{% block content %}
+<form method="POST" action="{{ url_for('main.observations') }}">
+    <!-- Form fields for target manipulation -->
+    <button type="submit">Submit</button>
+</form>
+{% endblock %}

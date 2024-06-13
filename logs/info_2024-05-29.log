@@ -1,0 +1,56 @@
+24-05-2024 23:52:16 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+24-05-2024 23:52:16 - INFO: [33mPress CTRL+C to quit[0m
+24-05-2024 23:52:16 - INFO:  * Restarting with stat
+24-05-2024 23:52:17 - WARNING:  * Debugger is active!
+24-05-2024 23:52:17 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 23:52:18 - INFO: 127.0.0.1 - - [29/May/2024 23:52:18] "GET /targets HTTP/1.1" 200 -
+24-05-2024 23:52:18 - INFO: 127.0.0.1 - - [29/May/2024 23:52:18] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 23:52:18 - INFO: 127.0.0.1 - - [29/May/2024 23:52:18] "GET /static/css/styles.css HTTP/1.1" 200 -
+24-05-2024 23:52:18 - INFO: 127.0.0.1 - - [29/May/2024 23:52:18] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 23:52:18 - INFO: 127.0.0.1 - - [29/May/2024 23:52:18] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 23:52:32 - INFO: 127.0.0.1 - - [29/May/2024 23:52:32] "GET /targets HTTP/1.1" 200 -
+24-05-2024 23:52:32 - INFO: 127.0.0.1 - - [29/May/2024 23:52:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 23:52:32 - INFO: 127.0.0.1 - - [29/May/2024 23:52:32] "[36mGET /static/js/targets.js HTTP/1.1[0m" 304 -
+24-05-2024 23:52:32 - INFO: 127.0.0.1 - - [29/May/2024 23:52:32] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 23:52:32 - INFO: 127.0.0.1 - - [29/May/2024 23:52:32] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 23:55:31 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/app/routes.py', reloading
+24-05-2024 23:55:31 - INFO:  * Restarting with stat
+24-05-2024 23:55:32 - WARNING:  * Debugger is active!
+24-05-2024 23:55:32 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 23:57:13 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/app/routes.py', reloading
+24-05-2024 23:57:13 - INFO:  * Restarting with stat
+24-05-2024 23:57:14 - WARNING:  * Debugger is active!
+24-05-2024 23:57:14 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 23:57:22 - INFO: 127.0.0.1 - - [29/May/2024 23:57:22] "GET /targets HTTP/1.1" 200 -
+24-05-2024 23:57:22 - INFO: 127.0.0.1 - - [29/May/2024 23:57:22] "GET /static/js/targets.js HTTP/1.1" 200 -
+24-05-2024 23:57:23 - INFO: 127.0.0.1 - - [29/May/2024 23:57:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 23:57:23 - INFO: 127.0.0.1 - - [29/May/2024 23:57:23] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 23:57:23 - INFO: 127.0.0.1 - - [29/May/2024 23:57:23] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 23:57:23 - INFO: 127.0.0.1 - - [29/May/2024 23:57:23] "[33mGET /api/names HTTP/1.1[0m" 404 -
+24-05-2024 23:57:49 - INFO: 127.0.0.1 - - [29/May/2024 23:57:49] "GET /targets HTTP/1.1" 200 -
+24-05-2024 23:57:49 - INFO: 127.0.0.1 - - [29/May/2024 23:57:49] "GET /static/js/targets.js HTTP/1.1" 200 -
+24-05-2024 23:57:49 - INFO: 127.0.0.1 - - [29/May/2024 23:57:49] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+24-05-2024 23:57:49 - INFO: 127.0.0.1 - - [29/May/2024 23:57:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+24-05-2024 23:57:49 - INFO: 127.0.0.1 - - [29/May/2024 23:57:49] "GET /get_settings HTTP/1.1" 200 -
+24-05-2024 23:57:49 - INFO: 127.0.0.1 - - [29/May/2024 23:57:49] "[35m[1mGET /api/targets HTTP/1.1[0m" 500 -
+24-05-2024 23:58:15 - INFO: 127.0.0.1 - - [29/May/2024 23:58:15] "[35m[1mGET /api/targets HTTP/1.1[0m" 500 -
+24-05-2024 23:58:15 - INFO: 127.0.0.1 - - [29/May/2024 23:58:15] "GET /api/targets?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+24-05-2024 23:58:15 - INFO: 127.0.0.1 - - [29/May/2024 23:58:15] "GET /api/targets?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+24-05-2024 23:58:15 - INFO: 127.0.0.1 - - [29/May/2024 23:58:15] "GET /api/targets?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+24-05-2024 23:59:03 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/app/routes.py', reloading
+24-05-2024 23:59:03 - INFO:  * Restarting with stat
+24-05-2024 23:59:14 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+24-05-2024 23:59:14 - INFO: [33mPress CTRL+C to quit[0m
+24-05-2024 23:59:14 - INFO:  * Restarting with stat
+24-05-2024 23:59:15 - WARNING:  * Debugger is active!
+24-05-2024 23:59:15 - INFO:  * Debugger PIN: 462-907-580
+24-05-2024 23:59:15 - INFO: 127.0.0.1 - - [29/May/2024 23:59:15] "[33mGET /api/targets HTTP/1.1[0m" 404 -
+24-05-2024 23:59:32 - INFO: 127.0.0.1 - - [29/May/2024 23:59:32] "[35m[1mGET /get_targets HTTP/1.1[0m" 500 -
+24-05-2024 23:59:33 - INFO: 127.0.0.1 - - [29/May/2024 23:59:33] "GET /get_targets?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+24-05-2024 23:59:33 - INFO: 127.0.0.1 - - [29/May/2024 23:59:33] "GET /get_targets?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+24-05-2024 23:59:33 - INFO: 127.0.0.1 - - [29/May/2024 23:59:33] "GET /get_targets?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+24-05-2024 00:00:32 - INFO:  * Detected change in '/home/andrea/workspace/GUItool/data/data_classes.py', reloading
+24-05-2024 00:00:32 - INFO:  * Restarting with stat
+24-05-2024 00:02:45 - INFO:  * Restarting with stat
