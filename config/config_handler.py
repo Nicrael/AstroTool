@@ -1,6 +1,6 @@
 import json
 
-CONFIG_FILE = 'config/config.json'
+CONFIG_FILE = 'config.json'
 
 def load_config(file_path):
     with open(file_path, 'r') as file:
@@ -15,12 +15,12 @@ def save_config(file_path, config):
 def get_settings_json():
     config = load_config(CONFIG_FILE)
     return {
-        'working_directory': config.get('working_directory', ''),
-        'xml_file': config.get('xml_file', '')
+        'data_dir': config.get('data_dir', ''),
+        'xml_data': config.get('xml_data', '')
     }
 
 def set_settings_json(folder, file):
     config = load_config(CONFIG_FILE)
-    config['working_directory'] = folder
-    config['xml_file'] = file
+    config['data_dir'] = folder
+    config['xml_data'] = file
     save_config(CONFIG_FILE, config)

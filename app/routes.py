@@ -22,8 +22,8 @@ def settings():
     if request.method == 'GET':
         return render_template('settings.html')
     if request.method == 'POST':
-        folder = request.form.get('working_directory')
-        file = request.form.get('xml_file')
+        folder = request.form.get('data_dir')
+        file = request.form.get('xml_data')
         config_handler.set_settings_json(folder, file)
         #TODO:if file does not exist, create it and initialize it
         #TODO:if file exists, check if it is valid

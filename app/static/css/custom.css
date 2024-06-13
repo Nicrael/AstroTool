@@ -1,0 +1,42 @@
+body {
+    background-color: #f8f9fa; /* Colore di sfondo generale */
+}
+
+.header {
+    background-color: #ffffff; /* Colore di sfondo dell'header */
+    padding: 5px 0; /* Padding sopra e sotto l'header */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Ombra leggera */
+}
+
+.header ul li {
+    display: inline; /* Elementi della lista orizzontali */
+    margin-right: 10px; /* Margin a destra tra gli elementi della lista */
+    font-size: 24px; /* Dimensione del testo */
+    font-weight: 500; /* Grassetto */
+}
+
+.logo-img {
+    max-width: 75px; /* Larghezza del logo */
+    max-height: 75px; /* Altezza del logo */
+}
+
+.hero {
+    background-color: #e9ecef; /* Colore di sfondo della sezione hero */
+    padding: 30px 0; /* Padding sopra e sotto la sezione hero */
+    text-align: center; /* Testo centrato */
+}
+
+.content {
+    padding: 50px 0; /* Padding sopra e sotto la sezione content */
+}
+
+footer {
+    background-color: #343a40; /* Colore di sfondo del footer */
+    color: #ffffff; /* Colore del testo nel footer */
+    padding: 15px 0; /* Padding sopra e sotto il footer */
+    text-align: center; /* Testo centrato nel footer */
+}
+
+footer p {
+    margin: 0; /* Margin 0 per il paragrafo nel footer */} 
+}
